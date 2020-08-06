@@ -36,17 +36,6 @@
         <param name="ios-package" value="CULPlugin"/>
         <param name="onload" value="true"/>
       </feature>
-      <universal-links>
-        <host name="ufl-dev.outsystemsenterprise.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-        <host name="ufl-tst.outsystemsenterprise.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-        <host name="dashboard.bluezest.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-      </universal-links>
     </config-file>
 
 <!-- Objective-C Sources -->
@@ -95,17 +84,6 @@
         <param name="android-package" value="com.nordnetab.cordova.ul.UniversalLinksPlugin"/>
         <param name="onload" value="true"/>
       </feature>
-      <universal-links>
-        <host name="ufl-dev.outsystemsenterprise.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-        <host name="ufl-tst.outsystemsenterprise.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-        <host name="dashboard.bluezest.com">
-          <path url="/Redraft_App/ObCallBack" />
-        </host>
-      </universal-links>
     </config-file>
 
 <!-- Java Library Sources -->
