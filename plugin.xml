@@ -38,13 +38,13 @@
       </feature>
       <universal-links>
         <host name="ufl-dev.outsystemsenterprise.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
         <host name="ufl-tst.outsystemsenterprise.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
         <host name="dashboard.bluezest.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
       </universal-links>
     </config-file>
@@ -97,13 +97,13 @@
       </feature>
       <universal-links>
         <host name="ufl-dev.outsystemsenterprise.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
         <host name="ufl-tst.outsystemsenterprise.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
         <host name="dashboard.bluezest.com" scheme="https">
-          <path url="/Redraft_App/ObCallBack" />
+          <path url="/Redraft_App/ObAuthCallBack" />
         </host>
       </universal-links>
       </config-file>
