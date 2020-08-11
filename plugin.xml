@@ -38,7 +38,7 @@
       </feature>
       <universal-links>
         <host name="ufl-dev.outsystemsenterprise.com" scheme="https">
-          <path url="/Redraft_App/ObAuthCallBack" />
+          <path url="/Redraft_App/*" event="OpenAuthCallBack" />
         </host>
         <host name="ufl-tst.outsystemsenterprise.com" scheme="https">
           <path url="/Redraft_App/ObAuthCallBack" />
